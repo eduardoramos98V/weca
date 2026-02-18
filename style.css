@@ -446,6 +446,7 @@ a {
     margin-bottom: 1rem;
     transform: translateZ(0);
     /* Hardware acceleration */
+    background-color: #f5f5f7;
 }
 
 .portfolio-image {
